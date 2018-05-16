@@ -1,2 +1,1 @@
-test12newbranchn.txtsadsadforpullrequest 
-newlineinnewbranch
+merged succesed
