@@ -1,2 +1,1 @@
-testmaaster12newbranch.forpullmastertxtsadsad
-newlineinmaster
+merged succesed
