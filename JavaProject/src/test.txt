@@ -1,1 +1,2 @@
-testmaaster12newbranch.txtsadsad
+testmaaster12newbranch.forpullmastertxtsadsad
+newlineinmaster
