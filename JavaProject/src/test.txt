@@ -1,2 +1,2 @@
 merged succesed again master newBrnach
-new changes test commit with no conflicts
+new changes
