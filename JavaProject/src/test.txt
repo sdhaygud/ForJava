@@ -1,1 +1,2 @@
-merged succesed  newBranch
+merged succesed again master newBrnach
+new changes
