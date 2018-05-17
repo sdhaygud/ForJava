@@ -1,1 +1,1 @@
-merged succesed again newBranch
+merged succesed  newBranch
